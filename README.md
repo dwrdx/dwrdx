@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Thank you for visiting my profile.
+
+- 📚 Know a little bit about C, Python, Golang, JS
+- 📠 Know a little bit about Embedded, Web, Data Science
+- ⌨️ I'm passionate in coding
+- ✔️ Productivity enthusiasts
+
 <!--
 **dwrdx/dwrdx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
