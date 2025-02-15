@@ -2,7 +2,7 @@
 
 Thank you for visiting my profile. **About ME**:
 
-- 📚 Know a little bit about C, Python, Golang, JS
+- 📚 Know a little bit about C, Python, Rust, Golang, JS
 - 📠 Know a little bit about Embedded, Web, Data Science
 - ⌨️ I'm passionate in coding
 - ✔️ Productivity enthusiasts
